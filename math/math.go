@@ -13,6 +13,7 @@ func Add(a, b int) int {
 
 func Sub(a, b int) int {
 	return (a - b)
+	fmt.Println("Hello! 01 master mod")
 }
 
 func Mul(a, b int) int {
