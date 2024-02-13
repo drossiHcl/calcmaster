@@ -18,4 +18,5 @@ func main() {
 	fmt.Println(m.Avg(slice))
 	fmt.Println(m.Pi)
 	fmt.Println(math.Pi)
+	fmt.Println("Hello! 01 master mod")
 }
