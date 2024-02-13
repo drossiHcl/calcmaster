@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello! 01 first mod")
+	fmt.Println("Hello! 02 first mod on branch 02")
 	slice := []float64{1.0, 2.0, 3.0, 4.0}
 	fmt.Println(m.Add(1, 2))
 	fmt.Println(m.Sub(1, 2))
