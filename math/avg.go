@@ -1,5 +1,7 @@
 package math
 
+import "fmt"
+
 func Avg(slice []float64) float64 {
 	fmt.Println("Hello! 01 master mod")
 	total := 0.0
